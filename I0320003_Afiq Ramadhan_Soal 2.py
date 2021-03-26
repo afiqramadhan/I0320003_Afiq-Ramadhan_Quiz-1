@@ -6,5 +6,5 @@ satu_putaran = 12
 konser = jam % satu_putaran
 jam = 5 + konser
 # menampilkan hasil perhitungan
-print("Hasil bagi jam dengan putaran jam adalah : ", konser)
+print("Sisa hasil bagi jam dengan putaran jam adalah : ", konser)
 print("Jarum pendek akan menunjukkan pada angka: ", jam)
